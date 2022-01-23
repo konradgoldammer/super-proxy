@@ -1,0 +1,24 @@
+{
+  "name": "super-proxy2",
+  "version": "1.0.0",
+  "description": "Determines proxy to use for super-bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konradgoldammer/super-proxy.git"
+  },
+  "author": "Konrad Goldammer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konradgoldammer/super-proxy/issues"
+  },
+  "homepage": "https://github.com/konradgoldammer/super-proxy#readme",
+  "dependencies": {
+    "get-free-https-proxy": "^2.0.2",
+    "proxy-check": "^1.0.8"
+  }
+}
