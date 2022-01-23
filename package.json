@@ -1,6 +1,6 @@
 {
   "name": "super-proxy2",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Determines proxy to use for super-bot",
   "main": "index.js",
   "type": "module",
